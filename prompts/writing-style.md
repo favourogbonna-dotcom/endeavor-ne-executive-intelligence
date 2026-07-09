@@ -84,6 +84,24 @@ Avoid unnecessary adjectives.
 
 
 
+\# Writing Style Rules
+
+
+
+This document defines formatting and writing behavior while Claude generates reports.
+
+
+
+It complements `knowledge/endeavor-style-guide.md`, which defines editorial standards and audience expectations.
+
+
+
+This document focuses on writing mechanics rather than reporting strategy.
+
+
+
+
+
 \# Writing Principles
 
 
