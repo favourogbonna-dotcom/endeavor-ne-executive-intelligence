@@ -6,15 +6,11 @@
 
 
 
-Produce a concise executive intelligence briefing for Endeavor Northeast leadership.
+Provide Endeavor Northeast leadership with a strategic summary of the previous week's most meaningful developments.
 
 
 
-This report should summarize the most meaningful developments from the past week across the portfolio, pipeline, capital partners, and regional startup ecosystem.
-
-
-
-The report should be decision-support focused rather than activity focused.
+The report should support executive awareness and decision-making.
 
 
 
@@ -26,21 +22,15 @@ The report should be decision-support focused rather than activity focused.
 
 
 
-Provide 3–6 bullets highlighting the most important developments from the week.
+Summarize the week's most significant developments.
 
 
 
-Each bullet should explain:
+Maximum:
 
 
 
-\- What happened
-
-\- Why it matters to Endeavor Northeast
-
-
-
-Only include developments that are relevant to leadership.
+3–6 bullets.
 
 
 
@@ -52,35 +42,7 @@ Only include developments that are relevant to leadership.
 
 
 
-Include meaningful developments involving portfolio companies.
-
-
-
-Examples include:
-
-
-
-\- Funding announcements
-
-\- Product launches
-
-\- Major hires
-
-\- Strategic partnerships
-
-\- Customer traction
-
-\- Awards or recognition
-
-\- Significant press coverage
-
-\- Exits
-
-\- Accelerator participation
-
-
-
-Do not include routine LinkedIn posts or insignificant updates.
+Summarize meaningful developments involving portfolio companies.
 
 
 
@@ -92,29 +54,7 @@ Do not include routine LinkedIn posts or insignificant updates.
 
 
 
-Summarize notable activity involving companies currently being evaluated.
-
-
-
-Highlight:
-
-
-
-\- Founder momentum
-
-\- Business progress
-
-\- Fundraising
-
-\- Customer growth
-
-\- Market traction
-
-\- Strategic developments
-
-
-
-Only include meaningful changes.
+Summarize meaningful developments involving companies currently under evaluation.
 
 
 
@@ -122,21 +62,11 @@ Only include meaningful changes.
 
 
 
-\# Capital Partner Updates
+\# New Companies Worth Watching
 
 
 
-Summarize developments involving:
-
-
-
-\- Venture funds
-
-\- Angel groups
-
-\- Family offices
-
-\- Institutional investors
+Identify startups that may deserve future attention.
 
 
 
@@ -144,17 +74,13 @@ Include:
 
 
 
-\- New funds
+\- Company
 
-\- Investments
+\- Region
 
-\- Partner announcements
+\- Industry
 
-\- Fundraising activity
-
-\- Investment theses
-
-\- Ecosystem participation
+\- Why it matters
 
 
 
@@ -162,11 +88,23 @@ Include:
 
 
 
-\# Regional Ecosystem Intelligence
+\# Capital Partner Activity
 
 
 
-Monitor startup ecosystem activity across:
+Summarize relevant developments involving venture funds, investors, and strategic partners.
+
+
+
+\---
+
+
+
+\# Regional Ecosystem News
+
+
+
+Organize by:
 
 
 
@@ -180,23 +118,7 @@ Monitor startup ecosystem activity across:
 
 
 
-Include only developments with strategic relevance.
-
-
-
-Examples:
-
-
-
-\- Startup funding
-
-\- Accelerator announcements
-
-\- University commercialization
-
-\- Economic development initiatives
-
-\- Venture ecosystem news
+Include only significant developments.
 
 
 
@@ -204,15 +126,23 @@ Examples:
 
 
 
-\# Closing Summary
+\# Funding Activity
 
 
 
-End with a short paragraph summarizing the overall state of the ecosystem during the reporting period.
+Summarize notable funding announcements.
 
 
 
-Keep this section concise.
+\---
+
+
+
+\# Internal Activity
+
+
+
+Summarize meaningful internal Endeavor Northeast developments from the reporting period.
 
 
 
@@ -232,85 +162,25 @@ Use H2 headings.
 
 
 
-Use bullets whenever possible.
+Use concise paragraphs.
 
 
 
-Keep paragraphs under four sentences.
+Use bullet points whenever appropriate.
 
 
 
-Do not use tables.
+Do not include:
 
 
 
-\---
+\- Upcoming events
 
+\- Conference schedules
 
+\- Meeting calendars
 
-\# Do Not Include
+\- Personal opinions
 
-
-
-Upcoming events
-
-
-
-Important meetings
-
-
-
-Conferences
-
-
-
-Demo Days
-
-
-
-Founder events
-
-
-
-Investor events
-
-
-
-Recommended executive actions
-
-
-
-Opinions
-
-
-
-Predictions
-
-
-
-Hallucinated information
-
-
-
-\---
-
-
-
-\# Quality Checklist
-
-
-
-Before finishing, verify that:
-
-
-
-\- Every fact is supported by available information.
-
-\- No duplicate stories are included.
-
-\- The Executive Summary reflects the most important developments.
-
-\- The report is concise and executive-ready.
-
-\- The report can be copied directly into a Gmail draft without additional editing.
+\- Speculation
 
