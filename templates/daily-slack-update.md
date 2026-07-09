@@ -1,4 +1,4 @@
-\# Daily Executive Slack Brief
+\# Daily Slack Morning Brief
 
 
 
@@ -6,41 +6,15 @@
 
 
 
-Provide a short executive update every weekday morning summarizing what leadership should know before the workday begins.
+Provide the Endeavor Northeast team with a concise operational briefing before the workday begins.
 
 
 
-The update should be readable in under one minute.
+The briefing should help the team prepare for the day by highlighting meetings, communication, operational updates, and priorities.
 
 
 
-\---
-
-
-
-\# Today's Highlights
-
-
-
-Provide 3–5 bullets describing the most important developments since the previous report.
-
-
-
-Focus on:
-
-
-
-\- Portfolio companies
-
-\- Pipeline companies
-
-\- Capital partners
-
-\- Regional startup ecosystem
-
-
-
-Each bullet should briefly explain why the update matters.
+The report should be readable in under one minute.
 
 
 
@@ -48,43 +22,37 @@ Each bullet should briefly explain why the update matters.
 
 
 
-\# Funding Activity
+\# Today's Schedule
 
 
 
-List any notable funding announcements.
+Summarize important meetings scheduled for today.
 
 
 
-If there were none, write:
+Include:
 
 
 
-No significant funding announcements.
+\- Founder meetings
+
+\- Investor meetings
+
+\- Internal meetings
+
+\- Team meetings
 
 
 
-\---
+Provide:
 
 
 
-\# Portfolio Activity
+\- Time
 
+\- Attendees
 
-
-Summarize meaningful updates involving current portfolio companies.
-
-
-
-\---
-
-
-
-\# Pipeline Activity
-
-
-
-Summarize meaningful developments involving companies currently under evaluation.
+\- Location or meeting link when available
 
 
 
@@ -92,21 +60,131 @@ Summarize meaningful developments involving companies currently under evaluation
 
 
 
-\# Ecosystem News
+\# Meeting Preparation
 
 
 
-Include only major regional startup news across:
+For each external meeting provide:
 
 
 
-\- Buffalo
+\- Company
 
-\- Rochester
+\- Founder(s)
 
-\- Cleveland
+\- Previous interaction
 
-\- Pittsburgh
+\- Open action items
+
+\- Key discussion topics
+
+\- Relevant recent developments
+
+
+
+\---
+
+
+
+\# Priority Emails
+
+
+
+Highlight emails requiring attention today.
+
+
+
+Examples:
+
+
+
+\- Founder replies
+
+\- Investor communication
+
+\- Partnership discussions
+
+\- Time-sensitive requests
+
+
+
+\---
+
+
+
+\# Monday.com Updates
+
+
+
+Summarize:
+
+
+
+\- New assignments
+
+\- Status changes
+
+\- Tasks due today
+
+\- Overdue tasks
+
+
+
+\---
+
+
+
+\# Slack Activity
+
+
+
+Highlight:
+
+
+
+\- Important announcements
+
+\- Founder discussions
+
+\- Portfolio updates
+
+\- Pipeline updates
+
+\- Questions awaiting responses
+
+
+
+\---
+
+
+
+\# Reminders
+
+
+
+Include:
+
+
+
+\- Deadlines
+
+\- Deliverables
+
+\- Internal reminders
+
+\- Time-sensitive follow-ups
+
+
+
+\---
+
+
+
+\# Recommended Priorities
+
+
+
+List the three to five most important priorities for today.
 
 
 
@@ -122,71 +200,17 @@ Use Markdown.
 
 
 
-Keep the report under 300 words.
+Use headings.
 
 
 
-Use bullet points.
+Keep the briefing concise.
 
 
 
-Avoid long paragraphs.
+Use bullet points whenever possible.
 
 
 
-\---
-
-
-
-\# Do Not Include
-
-
-
-Calendar events
-
-
-
-Meeting reminders
-
-
-
-Conference schedules
-
-
-
-Opinions
-
-
-
-Predictions
-
-
-
-Speculation
-
-
-
-Hallucinated information
-
-
-
-\---
-
-
-
-\# Quality Checklist
-
-
-
-Before finishing verify that:
-
-
-
-\- Every statement is factual.
-
-\- Duplicate stories are removed.
-
-\- Only high-value information is included.
-
-\- The report is optimized for Slack.
+Target 250–400 words.
 
