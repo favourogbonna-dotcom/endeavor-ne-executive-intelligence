@@ -2,7 +2,7 @@
 
 
 
-\## Schedule 
+\## Schedule
 
 
 
@@ -156,13 +156,29 @@ Remove duplicate information.
 
 
 
-Send as a Slack message.
+\# Delivery
 
 
 
-If no updates exist for a section, omit that section.
+Deliver the completed Daily Executive Slack Brief as three individual Slack direct messages.
 
 
 
-Never fabricate information.
+Recipients:
+
+
+
+\- Alan Rosenhoch
+
+\- Cameron Smith
+
+\- Favour Ogbonna
+
+
+
+Do not post to shared Slack channels.
+
+
+
+If one delivery fails, continue delivering to the remaining recipients and report the failure.
 
