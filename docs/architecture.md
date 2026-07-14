@@ -30,8 +30,11 @@ Prepare the team for the workday by highlighting operational priorities, importa
 
 **Output**
 
-Slack-ready Markdown message.
+Three individual Slack direct messages:
 
+- Alan Rosenhoch
+- Cameron Smith
+- Favour Ogbonna
 ---
 
 ## Weekly Executive Intelligence Brief
