@@ -122,6 +122,36 @@ Include only significant developments.
 
 
 
+
+
+\---
+
+
+
+\# University \& Research Innovation
+
+
+
+Include significant developments involving:
+
+
+
+\- University commercialization
+
+\- Startup formation
+
+\- Technology transfer
+
+\- Accelerator participation
+
+\- Research funding
+
+
+
+Only include meaningful developments.
+
+
+
 \---
 
 
