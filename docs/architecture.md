@@ -64,5 +64,12 @@ Provide leadership with a strategic overview of the previous week's most meaning
 
 **Output**
 
-Executive-ready Markdown suitable for a Gmail draft.
+Output
 
+One Gmail draft addressed to:
+
+- Alan Rosenhoch
+- Cameron Smith
+- Favour Ogbonna
+
+The email is created as a draft only and is not automatically sent.
