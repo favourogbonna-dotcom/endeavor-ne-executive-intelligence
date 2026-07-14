@@ -236,3 +236,51 @@ The objective is not to report everything.
 
 The objective is to report the most meaningful information in a format that supports executive decision-making.
 
+
+
+
+
+\# Delivery Standards
+
+
+
+\## Daily Executive Slack Brief
+
+
+
+\- Deliver as three individual Slack direct messages.
+
+\- Recipients:
+
+&#x20; - Alan Rosenhoch
+
+&#x20; - Cameron Smith
+
+&#x20; - Favour Ogbonna
+
+\- Do not post in public or shared channels.
+
+\- If delivery fails for one recipient, continue delivering to the remaining recipients and report the failure.
+
+
+
+\## Weekly Executive Intelligence Brief
+
+
+
+\- Create a Gmail draft.
+
+\- Address the draft to:
+
+&#x20; - Alan Rosenhoch
+
+&#x20; - Cameron Smith
+
+&#x20; - Favour Ogbonna
+
+\- Do not automatically send the email.
+
+\- Preserve executive formatting.
+
+\- If draft creation fails, report the error and preserve the generated report.
+
