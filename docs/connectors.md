@@ -320,6 +320,46 @@ Always use information in the following order:
 
 
 
+
+
+
+
+
+
+\## Preferred External Sources
+
+
+
+When performing public research, prioritize:
+
+
+
+\- University entrepreneurship centers
+
+\- Technology transfer offices
+
+\- Accelerator organizations
+
+\- Venture capital firms
+
+\- Regional business journals
+
+\- Government economic development agencies
+
+
+
+Avoid low-value press releases and promotional content.
+
+
+
+
+
+
+
+
+
+
+
 \# Delivery Connectors
 
 
