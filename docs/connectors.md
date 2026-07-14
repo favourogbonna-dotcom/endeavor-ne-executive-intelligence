@@ -320,5 +320,51 @@ Always use information in the following order:
 
 
 
+\# Delivery Connectors
+
+
+
+\## Slack
+
+
+
+Destination:
+
+
+
+\- Alan Rosenhoch (Direct Message)
+
+\- Cameron Smith (Direct Message)
+
+\- Favour Ogbonna (Direct Message)
+
+
+
+\## Gmail
+
+
+
+Draft recipients:
+
+
+
+To:
+
+\- Alan Rosenhoch
+
+\- Cameron Smith
+
+\- Favour Ogbonna
+
+
+
+Create a draft only.
+
+Do not automatically send.
+
 When conflicts exist, verify information before including it in a report.
+
+
+
+
 
