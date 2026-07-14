@@ -182,3 +182,27 @@ Do not post to shared Slack channels.
 
 If one delivery fails, continue delivering to the remaining recipients and report the failure.
 
+
+
+
+
+\## Data Integrity
+
+
+
+Never fabricate information.
+
+
+
+If a connector returns no relevant information:
+
+
+
+\- Omit that section, or
+
+\- State "No material developments identified."
+
+
+
+Never invent facts, companies, funding, meetings, or activities.
+
