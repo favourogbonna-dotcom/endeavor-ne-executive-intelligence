@@ -22,6 +22,46 @@ The final deliverable should be suitable for conversion into a Gmail draft with 
 
 
 
+\## Ecosystem Research
+
+
+
+After reviewing internal systems:
+
+
+
+Monitor:
+
+
+
+\- Universities
+
+\- Accelerators
+
+\- Venture Funds
+
+\- Economic Development Organizations
+
+\- Regional Startup News
+
+
+
+Use:
+
+
+
+knowledge/ecosystem-watchlist.md
+
+
+
+Prioritize meaningful developments over general announcements.
+
+
+
+\---
+
+
+
 \# Primary Goal
 
 
@@ -389,6 +429,4 @@ The report should be ready to copy directly into Gmail.
 
 
 Do not include AI disclaimers unless specifically requested.
-
-
 
