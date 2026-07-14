@@ -328,15 +328,23 @@ Always use information in the following order:
 
 
 
-Destination:
+Daily Executive Slack Brief recipients:
 
 
 
-\- Alan Rosenhoch (Direct Message)
+| Name | Slack Display Name | Slack User ID |
 
-\- Cameron Smith (Direct Message)
+|------|--------------------|---------------|
 
-\- Favour Ogbonna (Direct Message)
+| Alan Rosenhoch | Alan Rosenhoch | US94WJD7Z|
+
+| Cameron Smith | Cameron Smith | U0A04TGP1HA|
+
+| Favour Ogbonna | Favour Ogbonna |U0B9M3J5EPL |
+
+
+
+\---
 
 
 
@@ -344,27 +352,17 @@ Destination:
 
 
 
-Draft recipients:
+Weekly Executive Intelligence Brief draft recipients:
 
 
 
-To:
+| Name | Email Address |
 
-\- Alan Rosenhoch
+|------|---------------|
 
-\- Cameron Smith
+| Alan Rosenhoch |alan.rosenhoch@endeavor.org |
 
-\- Favour Ogbonna
+| Cameron Smith | cameron.smith@endeavor.org |
 
-
-
-Create a draft only.
-
-Do not automatically send.
-
-When conflicts exist, verify information before including it in a report.
-
-
-
-
+| Favour Ogbonna | favour.ogbonna@endeavor.org |
 
