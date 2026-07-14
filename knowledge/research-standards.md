@@ -216,6 +216,8 @@ Treat Notion as supporting context.
 
 
 
+
+
 \# Public Research
 
 
@@ -293,4 +295,24 @@ The goal is not to collect the most information.
 
 
 The goal is to identify the most valuable information for executive decision-making.
+
+
+
+\---
+
+
+
+\# Ecosystem Research
+
+
+
+After reviewing internal systems, monitor the organizations listed in:
+
+
+
+knowledge/ecosystem-watchlist.md
+
+
+
+Only include developments that materially affect Endeavor Northeast's portfolio, pipeline, capital partners, or regional startup ecosystem.
 
