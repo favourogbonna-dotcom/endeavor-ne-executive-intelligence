@@ -172,9 +172,31 @@ Do not automatically send the email.
 
 
 
-The draft should be ready for human review before sending. 
+The draft should be ready for human review before sending.
 
 
 
 If draft creation fails, preserve the report and report the error.
+
+
+
+\## Data Integrity
+
+
+
+Never fabricate information.
+
+
+
+If a connector returns no relevant information:
+
+
+
+\- Omit that section, or
+
+\- State "No material developments identified."
+
+
+
+Never invent facts, companies, funding, meetings, or activities.
 
