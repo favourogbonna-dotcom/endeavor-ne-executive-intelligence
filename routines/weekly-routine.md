@@ -146,9 +146,35 @@ Confirm:
 
 
 
+\# Delivery
+
+
+
 Create a Gmail draft.
 
 
 
-If there are no material developments, explicitly state that rather than inventing content.
+Recipients:
+
+
+
+To:
+
+\- Alan Rosenhoch
+
+\- Cameron Smith
+
+\- Favour Ogbonna
+
+
+
+Do not automatically send the email.
+
+
+
+The draft should be ready for human review before sending. 
+
+
+
+If draft creation fails, preserve the report and report the error.
 
