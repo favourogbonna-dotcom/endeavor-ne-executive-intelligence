@@ -22,6 +22,20 @@ Prepare a complete executive intelligence briefing summarizing the previous week
 
 
 
+
+
+\---
+
+Reporting Period
+
+
+
+Summarize developments from the previous weekly report through the current reporting date.
+
+
+
+Do not generate a weekly brief for periods shorter than one week unless explicitly requested.
+
 \---
 
 
